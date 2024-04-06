@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @haozhuoethan
+- 👋 Hi, I’m @haozhuoethan, a Software Engineer.
 - 👀 I’m interested in Machine Learning and Artificial intelligence.
-- 🌱 I’m currently learning Data Analytics.
+- 🌱 I’m currently learning Data Analytics and System Architecture.
 - 💞️ I’m looking to collaborate on cross-border e-commerce
 - 📫 Reach me by zhuohaoethan@gmail.com
 - 😄 Pronouns: he/him
